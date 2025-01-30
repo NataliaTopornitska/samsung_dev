@@ -1,4 +1,4 @@
 # SΛMSUNG Dev
 
- [DEMO LINK]()
+ [DEMO LINK](https://nataliatopornitska.github.io/samsung_dev/)
 
